@@ -48,3 +48,7 @@ Para poder fazer a instalação e conexão você deve seguir os seguintes passos
 
 Basicamente antes de tudo você já deve estar com todos os componentes em mãos e montados de acordo com o projeto que foi desenvolvido no ThinkerCad
 Feito tudo isso e com todos os materiais em mãos você devera conectar o Arduino no computador -> abrir a aplicação do Arduino -> importar o projeto -> e passo final que é executar e conferir se o projeto está funcionando de acordo como o esperado 
+
+
+Video do projeto
+https://youtu.be/3ILEjIvXyCM
