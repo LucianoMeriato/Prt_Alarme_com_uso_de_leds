@@ -52,3 +52,6 @@ Feito tudo isso e com todos os materiais em mãos você devera conectar o Arduin
 
 Video do projeto
 https://youtu.be/3ILEjIvXyCM
+
+Link Projeto Tinkercad
+https://www.tinkercad.com/things/1QlqWumM3HV-cp1edgedesign?sharecode=zCM9RGHyDRcdrHS4E86IEyG85e3jYgYojMWy9AuPE4Q
