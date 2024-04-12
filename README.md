@@ -1,3 +1,16 @@
+Alunos
+Eric Darakjian
+RM557082
+
+Luciano Henrique Meriato Junior
+RM554546
+
+Pedro Pawlik Ferrari
+RM556968
+
+Pietro Vitor Pezzente
+RM557283
+
 # Prt_Alarme_com_uso_de_leds
 Esse repositorio tem como intuito apresentar o projeto realizado pelos alunos : Erick , Luciano, Pedro Pawlik, Pietro
 
